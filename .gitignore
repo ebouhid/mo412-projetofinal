@@ -1,0 +1,10 @@
+.vscode/
+
+# Coleta MARC (MO810): credenciais e dados pessoais de estudantes
+marc/curl.txt
+marc/marc_raw/
+marc/tabelas/
+marc/*.xlsx
+resposta.json
+
+__pycache__/
