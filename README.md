@@ -1,3 +1,16 @@
+> [!NOTE]
+> Nós, do grupo de MO810 (Feminismo de Dados, Unicamp, 2s2026), usamos este fork como base para
+> um novo projeto: uma análise interseccional da trajetória de estudantes de pós-graduação do IC.
+> Para isso, acrescentamos a pasta `marc/`, que refaz a coleta das bancas a partir do registro MARC
+> completo de cada defesa. A coleta original guardava só os ORCIDs. Nós precisávamos de todas as
+> pessoas da banca (inclusive quem não tem ORCID), com papel, Lattes e data da defesa, e também das
+> defesas de 2025. A nova coleta foi validada contra a base deste projeto (`marc/relatorio_validacao.md`).
+> Além de `marc/` e do `.gitignore`, nenhum arquivo do MO412 foi alterado.
+>
+> O trabalho continua em [ebouhid/mo810-projFinal](https://github.com/ebouhid/mo810-projFinal).
+> Esse repositório reúne a coleta MARC, com o histórico, e os dados da CAPES sobre discentes. Este
+> fork fica como referência e não recebe mais atualizações.
+
 # Análise da Composição das Bancas de Defesas do IC/UNICAMP
 
 Jhéssica Silva e João Gondim  
